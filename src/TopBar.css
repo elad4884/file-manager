@@ -1,0 +1,18 @@
+.top-bar {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin: 40px 0;
+    display: grid;
+    grid-template-columns: 40px 40px 80px auto;
+  }
+  
+.top-bar-btn {
+    border-right: 1px solid #bbb !important;
+    background-color: #ddd !important;
+}
+
+.top-bar-item {
+    padding: 5px 20px;
+    color: #5a5a5a;
+    background-color: #ddd;
+}
